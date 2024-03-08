@@ -1,0 +1,4 @@
+# Each line is a file pattern followed by one or more owners.
+# Order is important; the last matching file pattern takes precedence.
+# You can also use email addresses if you prefer.
+*       @__Susheet__
